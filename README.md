@@ -1,2 +1,2 @@
-# Exercicios-Curso-Fundamentos-de-Programa-o
+# Exercicios-Curso-Fundamentos-de-Programacao
 Exercícios de JavaScript
